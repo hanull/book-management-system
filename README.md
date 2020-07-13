@@ -5,7 +5,7 @@
 <hr>
 
 ## 개발 환경
-![skills](https://github.com/hanull/book-management-system/blob/master/img/skills.png)
+<img src="https://github.com/hanull/book-management-system/blob/master/img/skills.png" width="750" height="500">
 
 ## 주요 기능
 - 도서 간편 예약 / 대여
