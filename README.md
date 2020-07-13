@@ -1,7 +1,11 @@
 # :blue_book: Book management system
-> 42서울 도서관리시스템,  
-> 쉽고 빠르게 도서 대여 및 예약 가능  
+42서울 도서관리시스템,    
+쉽고 빠르게 도서 대여 및 예약 가능 
+
+> 서비스 개요 및 기획의도  
 :page_facing_up: [wiki 바로가기](https://github.com/hanull/book-management-system/wiki)
+
+
 <hr>
 
 ## 개발 환경
