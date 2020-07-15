@@ -20,7 +20,7 @@
 
 ## 프로젝트 구조
 ### workflow
-![workflow img]()
+<img src="https://github.com/hanull/book-management-system/blob/master/img/work-flow(user).png">
 
 ### erd
 [erd 링크]()
