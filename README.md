@@ -18,11 +18,14 @@
   - 도서 정보 간편 등록
 > [상세 기능 목록](https://github.com/hanull/book-management-system/wiki/%EA%B8%B0%EB%8A%A5%EB%AA%A9%EB%A1%9D)
 
-## 프로젝트 구조
-### workflow
-![workflow img]()
+## Work-Flow
+#### 사용자
+<img src="https://github.com/hanull/book-management-system/blob/master/img/work-flow(user).png">
+  
+#### 관리자
+<img src="https://github.com/hanull/book-management-system/blob/master/img/work-flow(manager).png">
 
-### erd
+## ERD
 [erd 링크]()
 
 
