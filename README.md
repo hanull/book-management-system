@@ -19,7 +19,7 @@
 > [상세 기능 목록](https://github.com/hanull/book-management-system/wiki/%EA%B8%B0%EB%8A%A5%EB%AA%A9%EB%A1%9D)
 
 ## Work-Flow  
-<img src="https://github.com/hanull/book-management-system/blob/master/img/work-flow.png">
+<img src="https://github.com/hanull/book-management-system/blob/master/img/work-flow1.png">
 
 ## ERD
 [erd 링크]()
