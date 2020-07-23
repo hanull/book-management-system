@@ -22,7 +22,7 @@
 <img src="https://github.com/hanull/book-management-system/blob/master/img/work-flow1.png">
 
 ## ERD
-[erd 링크]()
+<img src="https://github.com/hanull/book-management-system/blob/master/img/erd.PNG" width="900" height="600">
 
 
 
