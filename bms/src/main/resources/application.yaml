@@ -1,0 +1,6 @@
+spring:
+  datasource:
+    username: hst
+    password: hstqweQWE
+    url: jdbc:mariadb://database-1.clozyxtm7nwy.ap-northeast-2.rds.amazonaws.com:3306/bms
+    driver-class-name: org.mariadb.jdbc.Driver
