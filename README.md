@@ -1,5 +1,5 @@
 # :blue_book: Book management system
-42서울 도서관리시스템,    
+도서관리시스템,    
 쉽고 빠르게 도서 대여 및 예약 가능 
 
 > 서비스 개요 및 기획의도  
